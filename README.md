@@ -1,4 +1,4 @@
-![QuantumMeasurement-Lab cover](assets/cover.png)
+![QuantumMeasurement-Lab cover](cover.png)
 
 # QuantumMeasurement-Lab 📏⚛️
 
